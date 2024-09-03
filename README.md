@@ -20,6 +20,6 @@ utilizing attention weights. This approach pinpoints the most influential words 
 ![Alt Text](WebApp/Performance.png)
 
 ### Demo Page -
-![Alt Text](WebApp/Demo.png)
+![Alt Text](WebApp/DemoPage.png)
 
 
