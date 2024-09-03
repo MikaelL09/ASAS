@@ -1,5 +1,7 @@
 # ASAS: Enhancing Fan Engagement with Explainable Self Learning Sentiment Analysis
 
+## Project Description
+
 This research addresses a critical challenge faced by individuals and brands with large fanbases: the difficulty in understanding fan sentiment and its potential impact on fan engagement and 
 performance. This is particularly pertinent within fast-paced sports such as Formula 1, where fan opinions can significantly influence driver and team morale. Currently social media platforms lack 
 the tools necessary for fanbase owners to efficiently monitor fan sentiment, requiring time consuming manual analysis. To address this gap, this thesis proposes the use of sentiment analysis 
@@ -10,6 +12,8 @@ proposed system leverages a pre-trained DistilBERT model, fine-tuned on a compre
 self-supervised techniques, facilitating continuous model refinement based on its own predictions. To improve prediction transparency, the system incorporates an Explainable AI (XAI) method 
 utilizing attention weights. This approach pinpoints the most influential words within a sentence, revealing the key factors driving the model's classification decisions.
 
-## Front-End Dashboard
+## Images
+### Home Page -
+![Alt Text](ASAS/Webb)
 
 
