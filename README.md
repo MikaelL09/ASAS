@@ -1,4 +1,4 @@
-#ASAS: Enhancing Fan Engagement with Explainable Self Learning Sentiment Analysis
+# ASAS: Enhancing Fan Engagement with Explainable Self Learning Sentiment Analysis
 
 This research addresses a critical challenge faced by individuals and brands with large fanbases: the difficulty in understanding fan sentiment and its potential impact on fan engagement and 
 performance. This is particularly pertinent within fast-paced sports such as Formula 1, where fan opinions can significantly influence driver and team morale. Currently social media platforms lack 
