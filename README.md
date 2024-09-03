@@ -10,4 +10,6 @@ proposed system leverages a pre-trained DistilBERT model, fine-tuned on a compre
 self-supervised techniques, facilitating continuous model refinement based on its own predictions. To improve prediction transparency, the system incorporates an Explainable AI (XAI) method 
 utilizing attention weights. This approach pinpoints the most influential words within a sentence, revealing the key factors driving the model's classification decisions.
 
+## Front-End Dashboard
+
 
