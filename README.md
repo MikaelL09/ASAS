@@ -14,6 +14,15 @@ utilizing attention weights. This approach pinpoints the most influential words 
 
 ## Images
 ### Home Page -
-![Alt Text](ASAS/Webb)
+![Alt Text](WebApp/Home.png)
+
+### Dashboards -
+![Alt Text](WebApp/Dashboard.png)
+
+### Performance Page -
+![Alt Text](WebApp/Performance.png)
+
+### Demo Page -
+![Alt Text](WebApp/Demo.png)
 
 
